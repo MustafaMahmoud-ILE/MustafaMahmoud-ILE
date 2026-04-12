@@ -44,7 +44,8 @@ A specialized Python tool designed to convert executable e-books to high-quality
 - **Email**: [mustafa1015104@gmail.com](mailto:mustafa1015104@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaMahmoud-ILE&show_icons=true&theme=tokyonight" alt="Mustafa's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MustafaMahmoud-ILE&theme=tokyonight" alt="Mustafa's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MustafaMahmoud-ILE&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
