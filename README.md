@@ -32,6 +32,12 @@ A professional-grade, local-first password manager with a **Triple-Wrap Security
 - **v1.3.0 Features**: AES-256-GCM, DPAPI-sealed memory, 24-word phrase recovery, and inactivity auto-lock.
 - **Tech**: PySide6, SQLite, Argon2id, Windows DPAPI.
 
+#### [📊 EUI OMR Engine](https://github.com/MustafaMahmoud-ILE/eui_omr)
+An industrial-precision Optical Mark Recognition system designed for high-throughput grading.
+- **Key Innovations**: Implemented a **Probabilistic Peak Detection** algorithm for faint mark recognition and a **Smart Calibration** loop to handle diverse scanning qualities.
+- **Architecture**: Features a thread-isolated PySide6 dashboard with a "Human-in-the-Loop" verification system for 100% data integrity.
+- **Tech**: Python, OpenCV, PySide6, NumPy, PyMuPDF.
+
 #### [📄 nwjsexe2pdf](https://github.com/MustafaMahmoud-ILE/nwjsexe2pdf)
 A specialized Python tool designed to convert executable e-books to high-quality PDF format.
 - **Impact**: Simplified educational resource access for library transitioning.
